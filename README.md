@@ -19,9 +19,7 @@ Keep myself busy during the last few weeks of my internship (thank you LinkedIn 
 
 No official signed binary will be built at this moment. To build the driver, a
 few software needs to be installed including Visual Studio 2019 (with C/C++ 
-workload) and Windows 10 Driver Kit, Version 1903. Install `DFRUsbCcgp.inf`
-for the "Apple Touch Bar" device first, then install `DFRDisplayKm.inf` for the
-"iBridge Display" device.
+workload) and Windows 10 Driver Kit, Version 1903. Install `DFRDisplayKm.inf` "Apple Touch Bar" device.
 
 **You need to turn off Secure Boot as described in the [Apple Knowledge Base](https://support.apple.com/en-us/HT208330)**.
 
